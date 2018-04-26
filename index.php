@@ -33,6 +33,5 @@ switch ($action) {
     default:
         $buecher = findeBuecher();
         $template = 'liste';
-        echo "echo";
 }
 require_once 'templates/' . $template . '.tpl.php';

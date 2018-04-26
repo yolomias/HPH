@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39755b08-cab4-4060-b8a6-9f6636add83d" name="PHP-FPM LAAL" url="http://192.168.51.24">
+        <fileTransfer host="192.168.51.24" port="22" rootFolder="/var/www/html/PHPW40-10" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

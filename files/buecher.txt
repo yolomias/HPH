@@ -1,0 +1,1 @@
+a:3:{i:0;O:4:"Buch":2:{s:8:" * titel";s:26:"Der Graf von Monte Christo";s:8:" * preis";d:9.95;}i:1;O:4:"Buch":2:{s:8:" * titel";s:30:"Per Anhalter durch die Galaxis";s:8:" * preis";d:7.95;}i:2;O:4:"Buch":2:{s:8:" * titel";s:6:"foobar";s:8:" * preis";s:4:"1.23";}}
